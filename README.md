@@ -14,3 +14,7 @@ This is a list of the md5 hashes for both the `.nes` ROM files, as well as the `
 ### Thanks
 
 Special thanks to No-Intro, RW, and ultimate11.
+
+### More
+
+https://execbash.cc/2021/01/12/no-intro-nes-hashes-and-download/
